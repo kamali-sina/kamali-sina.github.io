@@ -10,7 +10,7 @@ main:
     url: /publications/
 
   - title: "CV"
-    url: /files/SinaKamali_cv.pdf
+    url: /cv/
 
   - title: "Transcript"
     url: /transcript/
