@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-
 * BSC. in Computer Engineering (Software Engineering major), College of Electric and Computer Engineering, [University of Tehran](https://ece.ut.ac.ir/en/ece)
 * Diploma in Mathematics and Physics, Allame Helli 4 Highschool
 
