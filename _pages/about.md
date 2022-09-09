@@ -10,13 +10,13 @@ redirect_from:
 
 ## Who am I?
 
-I'm Sina Kamali, an undergraduate computer engineering student living in Tehran, Iran. I first learned about programming in high school, but quickly realized I needed could create custom code to automate many of my daily tasks. I developed a passion for software development as I began to write more code throughout my studies and personal projects. I have developed several open-source projects which I encourage you to read more about on my GitHub page. Today, I work as an undergraduate research assistant focusing on cryptocurrency and other related topics.
+I'm Sina Kamali, an undergraduate computer engineering student living in Tehran, Iran. I first learned about programming in high school, but quickly realized I needed could create custom code to automate many of my daily tasks. I developed a passion for software development as I began to write more code throughout my studies and personal projects. I have developed several open-source projects which I encourage you to read more about on my GitHub page. Today, I work as an undergraduate research assistant at the University of Tehran, focusing on cryptocurrency and other related topics.
 
 ## What are my research interests?
 
 Ever since I learned about blockchains, I've been fascinated by the possibilities and capabilities they have. Today I am interested in different topics in cryptocurrency and blockchain technologies, network security, cryptography, and computer networks. more specifically topics I am interested in are:
 
-**Blockchains and Cryptocurrency**
+### Blockchains and Cryptocurrency
 
 * Alternative consensuses (i.e. Proof of Human Work, Proof of Useful Work, etc.)
 * Blockchain Development (i.e. Smart Contracts)
@@ -24,13 +24,13 @@ Ever since I learned about blockchains, I've been fascinated by the possibilitie
 * Zero Knowledge Proofs
 * ...
 
-**Computer Network Security**
+### Computer Network Security
 
 * Cryptography
 * Endpoint Security
 * Information Security
 
-**Computer Networks**
+### Computer Networks
 
 * Peer-to-Peer Networks
 * Cloud Computing
@@ -44,4 +44,3 @@ I have always been interested in games. I have developed a few games and love do
 ## Contact
 
 Feel free to contact me if you have any questions about me or my projects.
-
