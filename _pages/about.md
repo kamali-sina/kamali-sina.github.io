@@ -43,4 +43,4 @@ I have always been interested in games. I have developed a few games and love do
 
 ## Contact
 
-Feel free to contact me if you have any questions about me or my projects.
+Feel free to contact me if you are interested in working with me or have any questions about me or my projects.
