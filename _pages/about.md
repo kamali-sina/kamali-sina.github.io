@@ -10,7 +10,7 @@ redirect_from:
 
 ## Who am I?
 
-I'm Sina Kamali, an undergraduate computer engineering student living in Tehran, Iran. I first learned about programming in high school, but quickly realized I could create custom code to automate many of my daily tasks. I developed a passion for software development as I began to write more code throughout my studies and personal projects. I have developed several open-source projects which I encourage you to read more about on my GitHub page. Today, I work as an undergraduate research assistant at the University of Tehran, focusing on cryptocurrency and other related topics.
+I'm Sina Kamali, an undergraduate computer engineering student living in Tehran, Iran. I first learned about programming in high school, but quickly realized I could create custom code to automate many of my daily tasks. I developed a passion for software development as I began to write more code throughout my studies and personal projects. I have developed several open-source projects which I encourage you to read more about on my GitHub page. Today, I work as an undergraduate research assistant at the University of Tehran, focusing on network security, cryptocurrencies, and other related topics.
 
 ## What are my research interests?
 
@@ -26,9 +26,12 @@ Ever since I learned about blockchains, I've been fascinated by the possibilitie
 
 ### Computer Network Security
 
+* Data privacy and user data control
 * Cryptography
-* Endpoint Security
-* Information Security
+* Cyber criminology
+* Endpoint security
+* Information security
+* ...
 
 ### Computer Networks
 
