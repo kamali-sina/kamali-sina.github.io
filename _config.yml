@@ -86,7 +86,7 @@ author:
   location         : "Tehran, Iran"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=R7D87hUAAAAJ&hl=en&authuser=3"
   email            : "thesinakamali@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
