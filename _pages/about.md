@@ -18,7 +18,7 @@ Ever since I learned about blockchains, I've been fascinated by the possibilitie
 
 ### Blockchains and Cryptocurrency
 
-* Alternative consensuses (i.e. Proof of Human Work, Proof of Useful Work, etc.)
+* Alternative consensuses (e.g. Proof of Human Work, Proof of Useful Work, etc.)
 * Blockchain Development (i.e. Smart Contracts)
 * Decentralized Finance
 * Zero Knowledge Proofs
