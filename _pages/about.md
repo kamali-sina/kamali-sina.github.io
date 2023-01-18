@@ -14,31 +14,7 @@ I'm Sina Kamali, an undergraduate computer engineering student living in Tehran,
 
 ## What are my research interests?
 
-Ever since I learned about blockchains, I've been fascinated by the possibilities and capabilities they have. Today I am interested in different topics in cryptocurrency and blockchain technologies, network security, cryptography, and computer networks. more specifically topics I am interested in are:
-
-### Blockchains and Cryptocurrency
-
-* Alternative consensuses (e.g. Proof of Human Work, Proof of Useful Work, etc.)
-* Blockchain Development (i.e. Smart Contracts)
-* Decentralized Finance
-* Zero Knowledge Proofs
-* ...
-
-### Computer Network Security
-
-* Data privacy and user data control
-* Cryptography
-* Cyber criminology
-* Endpoint security
-* Information security
-* ...
-
-### Computer Networks
-
-* Peer-to-Peer Networks
-* Cloud Computing
-* Decentralized Services and Cluster Management
-* Enhancing System Robustness in Decentralized Networks
+Ever since I learned about blockchains, I've been fascinated by the possibilities and capabilities they have. Today I am interested in different topics in cryptocurrency and blockchain technologies, network security, cryptography, and computer networks.
 
 ## What are my other interests?
 
@@ -47,3 +23,18 @@ I have always been interested in games. I have developed a few games and love do
 ## Contact
 
 Feel free to contact me if you are interested in working with me or have any questions about me or my projects.
+
+## News
+
+<font size="3">
+<div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
+<ul>
+    <li>
+		<b>Jan 2023</b>: Started working on a new open-world game as a hobby project. <a href="https://github.com/kamali-sina/bullet-time">[repo]</a>
+	</li>
+	<li>
+		<b>Oct 2022</b>: Submitted the "RPoA: Redefined Proof of Activity" paper to ICBC.
+	</li>
+</ul>
+</div>
+</font>
