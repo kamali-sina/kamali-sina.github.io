@@ -11,12 +11,11 @@ redirect_from:
 <font size="3">
 <div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
 <ul>
-    <li>
-		<b>Jan 2023</b>: Started working on a new open-world game as a hobby project. <a href="https://github.com/kamali-sina/bullet-time">[repo]</a>
-	</li>
+	{% for post in site.posts %}   
 	<li>
-		<b>Oct 2022</b>: Submitted the "RPoA: Redefined Proof of Activity" paper to ICBC.
+		<b>{{ post.date | date: "%B %e, %Y" }}</b>: <a href="{{ post.url }}">{{ post.title }}</a>
 	</li>
+	{% endfor %}
 </ul>
 </div>
 </font>
