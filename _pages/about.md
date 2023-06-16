@@ -8,10 +8,16 @@ redirect_from:
  - /about.html
 ---
 
-{% for post in site.posts %}   
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <!-- <p><small><strong>{{ post.date | date: "%B %e, %Y" }}</strong> . {{ post.category }} . <a href="http://kamali-sina.github.com{{ post.url }}#disqus_thread"></a></small></p>             -->
-{% endfor %}
+<font size="3">
+	<div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
+		<ul>
+			<li>
+		@@ -37,4 +37,9 @@ Feel free to contact me if you are interested in working with me or have any que
+			</li>
+		</ul>
+	</div>
+</font>
+
 
 
 ## Who am I?
