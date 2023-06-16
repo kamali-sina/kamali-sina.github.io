@@ -3,6 +3,7 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
+layout: default
 redirect_from: 
  - /about/
  - /about.html
@@ -24,22 +25,9 @@ I have always been interested in games. I have developed a few games and love do
 
 Feel free to contact me if you are interested in working with me or have any questions about me or my projects.
 
-## News
-
-<!-- <font size="3">
-<div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
-<ul>
-    <li>
-		<b>Jan 2023</b>: Started working on a new open-world game as a hobby project. <a href="https://github.com/kamali-sina/bullet-time">[repo]</a>
-	</li>
-	<li>
-		<b>Oct 2022</b>: Submitted the "RPoA: Redefined Proof of Activity" paper to ICBC.
-	</li>
-</ul>
-</div>
-</font> -->
+## Blog
 
 {% for post in site.posts %}   
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p><small><strong>{{ post.date | date: "%B %e, %Y" }}</strong> . {{ post.category }} . <a href="http://mypage.github.com{{ post.url }}#disqus_thread"></a></small></p>          
+    <p><small><strong>{{ post.date | date: "%B %e, %Y" }}</strong> . {{ post.category }} . <a href="http://myname.github.com{{ post.url }}#disqus_thread"></a></small></p>            
 {% endfor %}
