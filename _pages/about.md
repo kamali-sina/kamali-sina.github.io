@@ -9,13 +9,16 @@ redirect_from:
 ---
 
 <font size="3">
-	<div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
-		<ul>
-			<li>
-		@@ -37,4 +37,9 @@ Feel free to contact me if you are interested in working with me or have any que
-			</li>
-		</ul>
-	</div>
+<div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
+<ul>
+    <li>
+		<b>Jan 2023</b>: Started working on a new open-world game as a hobby project. <a href="https://github.com/kamali-sina/bullet-time">[repo]</a>
+	</li>
+	<li>
+		<b>Oct 2022</b>: Submitted the "RPoA: Redefined Proof of Activity" paper to ICBC.
+	</li>
+</ul>
+</div>
 </font>
 
 
