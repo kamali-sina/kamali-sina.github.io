@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sina Kamali"
 title_separator          : "-"
 name                     : &name "Sina Kamali"
-description              : &description "Computer Science MMath at the University of Waterloo"
+description              : &description "Master's student at the University of Waterloo"
 url                      : https://kamali-sina.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kamali-sina/kamali-sina.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Sina Kamali"
-  avatar           : "profile.jpeg"
-  bio              : "Computer Science MMath at the University of Waterloo"
+  avatar           : "profile1.jpg"
+  bio              : "Master's student at the University of Waterloo"
   location         : "Waterloo, ON"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
