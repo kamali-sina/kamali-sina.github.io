@@ -8,7 +8,7 @@ redirect_from:
  - /about.html
 ---
 
-I'm Sina Kamali, a master's computer science student at the University of Waterloo. I'm currently researching under the supervision of [Diogo Barradas](https://cs.uwaterloo.ca/~dbarrada/). My research is on the **intersection of privacy-enhancing systems and applied cryptography**. I'm always finding new projects that I'm passionate about, and have been loving working in this line of research for the past few years.
+I'm Sina Kamali, a computer science master's student at the University of Waterloo. I'm currently researching under the supervision of [Diogo Barradas](https://cs.uwaterloo.ca/~dbarrada/). My research is on the **intersection of privacy-enhancing systems and applied cryptography**. I'm always finding new projects that I'm passionate about, and have been loving working in this line of research for the past few years.
 
 ## What are my research interests?
 
