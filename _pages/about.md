@@ -20,7 +20,7 @@ I don't have a specific preference when it comes to different topics in this are
 
 Ever since I learned about blockchains, I've been fascinated by the possibilities and capabilities they have. Recently, I'm more focused in other areas of applied cryptography. However, I might go back to the area if I find a project I feel motivated by.
 
-I have also always been interested in games in all forms, from boardgames to videogames. I have developed a few games and love doing so. Although I have been less active in this field, I do hope to return to creating games as a hobby in the future. Checkout [Sins & Virtues](https://github.com/kamali-sina/Sins-Virtues-Legacy/tree/main) if you're interested in checking out what I've created in the past.
+I have also always been interested in games in all forms, from boardgames to videogames. I have developed a few games and love doing so. Although I have been less active in this field, I do hope to return to creating games as a hobby in the future. Checkout [Sins & Virtues](https://github.com/kamali-sina/Sins-Virtues-Legacy/tree/main) if you're interested in seeing what I've created in the past.
 
 ## Background
 
